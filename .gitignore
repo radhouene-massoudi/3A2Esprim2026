@@ -1,0 +1,16 @@
+# Python — cache et fichiers compilés
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environnements virtuels
+.venv/
+# Environnements de développement
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
