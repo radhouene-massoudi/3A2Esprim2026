@@ -8,5 +8,6 @@ class Teacher(User):
         db_table = 'ens'
         managed = True
         verbose_name = 'ens'
-        verbose_name_plural = 'enss'
-      
+        verbose_name_plural = 'Teachers'
+ 
+     
